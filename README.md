@@ -25,9 +25,9 @@ Infrastructure: Linux, Self-hosted homelab
 
 ## Featured / Current Projects
 
-• Yabba Reviews – A reputation and review automation platform that allows business owners to increase their presence on google - Current Project
-• Steak'n'Egg Timer – A free react native application i created to familiarize myself with app store deployment - Finished
-• Martinlark.dev – A MERN stack portfolio site to demonstrate my projects with CMS built in - Ongoing 
+- Yabba Reviews – A reputation and review automation platform that allows business owners to increase their presence on google - Current Project
+- Steak'n'Egg Timer – A free react native application i created to familiarize myself with app store deployment - Finished
+- Martinlark.dev – A MERN stack portfolio site to demonstrate my projects with CMS built in - Ongoing 
 
 ---
 
